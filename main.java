@@ -379,6 +379,9 @@ public class main {
                 case 0:
                     saida = 0;
                     break;
+                default:
+                    System.out.println("Escreva um valor válido!!!");
+                    break;
             }
 
         }
